@@ -1,2 +1,5 @@
-# familytree-b
-Build a family-tree class in C++ - part B
+# Family Tree - part B
+
+Build a family-tree class in C++ - write the full implementation.
+
+
