@@ -1,5 +1,14 @@
-# Family Tree - part B
+# עץ משפחה - שלב ב
 
-Build a family-tree class in C++ - write the full implementation.
+כתבו מחלקה המייצגת עץ משפחה - עץ הורים של אדם אחד.
 
+בשלב ב עליכם לכתוב מימוש מלא של המחלקה. 
+המימוש צריך לעבור את כל הבדיקות - שלכם ושלנו.
 
+אנחנו מריצים את הפקודה הבאה:
+
+<div dir='ltr'>
+
+	make test && ./test
+
+</div>
